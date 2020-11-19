@@ -10,7 +10,7 @@ Usage:
 
 The following is a screenshot of the resulting webpage 
 
-![Screenshot](/Develop/assets/images01-html-css-git-homework-demo (1).png)
+<img width="411" alt="Screen Shot 2020-11-19 at 12 12 04 pm" src="https://user-images.githubusercontent.com/73278132/99607716-726e7280-2a60-11eb-96ba-5d4b7fa8fd57.png">
 
 
 Further information:
